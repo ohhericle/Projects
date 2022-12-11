@@ -1,0 +1,34 @@
+.grad {
+  background: linear-gradient(to left, #a1caf1, #4682b4);
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+a:link {
+  color: #8b0000;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #8b0000;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #8b0000;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
